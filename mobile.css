@@ -1,0 +1,79 @@
+html{
+  background:url(image.jpg);
+}
+marquee{
+  width: 100%;
+}
+div.background{
+color:red;
+width:device-width;
+font-size: 50px;
+margin-top: 50%;
+  
+}
+.body{
+background-color:#90B1DB;
+position:absolute;
+left:20%;
+right:20%;
+margin:10% auto 50% auto;
+width:50%;
+border-radius: 20px;
+  
+}
+form{
+width:60%;
+align:center;
+height:70%;
+opacity:60%;
+border-radius:40px;
+}
+.names{
+float:left;
+width:25%;
+padding-left:18%;
+color:white;
+font-size: 22px;
+}
+.inputs{
+margin:0 auto;
+float:right;
+padding-right:27%;
+width:25%;
+font-color:red;
+height:device-height;
+align:center;
+border-radius: 10px;
+}
+p{
+font-size:20px;
+font-family:serif,cursive,italy,times,arial;
+font-width:bold;
+color:black;
+}
+
+form inputs{
+font-size:20px;
+font-family:italy;
+height:40px;
+padding-right:15%;
+}
+form button{
+width:100px;
+weight:40px;
+padding:5px;
+border:1px dotted black;
+background-image: linear-gradient(to bottom right,#90B1DB,white);
+color:white;
+font-weight: bold;
+font-family: serif cursive;
+font-size: 20px;
+border-radius: 18px;
+}
+.submit{
+padding-top:30px;
+padding-left:45%;
+padding-right:45%;
+float:center;
+width:40%;
+}
